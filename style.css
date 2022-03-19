@@ -1,0 +1,21 @@
+body
+{
+    background-color: aqua;
+}
+#Score
+{
+    margin:30px;
+    font-size: 20px
+}
+
+#Timer
+{
+    margin:30px;
+    font-size: 20px;
+    float:right
+}
+
+#Sketch_Name
+{
+    color:black 
+}
